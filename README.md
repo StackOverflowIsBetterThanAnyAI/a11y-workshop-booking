@@ -1,19 +1,15 @@
 # a11y workshop - Lab
 
-This is a very broken application when it comes to accessibility. 
-
-Try to find the accessibility issues using the information provided in the workshop and fix them.
-
-
-## Setup
-Use `npm install` and `npm watch` to start web application
-
-Visit `localhost:3000`
-
-
-## Hints 
-Find "all" accessibility issues (some can be detected automatically, some can't).
-Make the application properly accessible.
-
-
-If you are stuck: ISSUES.md contains a list of several accessibility issues.
+- 1x no title
+- 1x no lang attribute
+- 2x input has no label
+- 4x insufficient color contrast
+- 3x image has no alt text
+- 3x group of images has no alt text
+- 2x button cannot be reached by keyboard
+- 2x button cannot be activated by keyboard
+- 6x link has no href value
+- 5x button has no accessible name
+- 3x abbreviations have no accessible name
+- 3x date / time has no accessible name
+- 3x accordion has no aria-expanded value
