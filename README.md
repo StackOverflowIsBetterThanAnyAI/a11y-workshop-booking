@@ -13,3 +13,5 @@
 - 3x abbreviations have no accessible name
 - 3x date / time has no accessible name
 - 3x accordion has no aria-expanded value
+- 2x insufficient line height
+- 1x no skip to main link
